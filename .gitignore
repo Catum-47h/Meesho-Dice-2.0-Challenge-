@@ -8,3 +8,4 @@
 /frontend/node_modules/  # if your frontend uses node
 /.DS_Store
 Thumbs.db
+backend/src/main/resources/application.properties
