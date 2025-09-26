@@ -7,5 +7,6 @@ PPT Link : https://drive.google.com/file/d/1NDQ7snE7neKQBuW77lw9MKI_2BSDZH57/vie
 Tech Stack used:
 
 Frontend: Javasript, React JS, CSS
+
 Backend: Java, Spring Boot,
 Gemini API
